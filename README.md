@@ -1,4 +1,4 @@
-<img width="1280" height="800" alt="Screenshot 2025-09-28 at 12 36 03 PM" src="https://github.com/user-attachments/assets/6a8ed4e7-9ea8-46bf-b28c-5bae4148385e" /># TaskFlow - Dark Task Dashboard
+# TaskFlow - Dark Task Dashboard
 
 A modern, responsive task management dashboard with a dark theme and animated robot background. Built with vanilla JavaScript, Node.js, and PostgreSQL.
 
